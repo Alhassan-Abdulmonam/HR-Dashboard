@@ -42,6 +42,4 @@ HR professionals need to:
 
 ## 📈 Sample Dashboard Preview  
 ![Dashboard Preview](https://github.com/Alhassan-Abdulmonam/HR-Dashboard/blob/main/HR.png)  
-*(Replace with an exported screenshot from your dashboard)*  
-
 ---
